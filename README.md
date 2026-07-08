@@ -33,18 +33,6 @@
 
 </p>
 
-<br/><br/>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShreyaVerma0407&style=flat-square&color=8a5cf6&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/followers/ShreyaVerma0407?style=flat-square&color=8a5cf6&labelColor=140A2E&logo=github&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/ShreyaVerma0407?style=flat-square&color=8a5cf6&labelColor=140A2E&logo=github&label=Stars"/>
-
-</p>
-
 </div>
 
 <br/>
@@ -109,6 +97,8 @@ I'm passionate about learning, experimenting with emerging technologies, and tur
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -135,51 +125,6 @@ management.
 </details>
 
 
-
----
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyaVerma0407&show_icons=true&theme=radical&hide_border=true&bg_color=0D0821&title_color=B79CFF&icon_color=8A5CF6&text_color=E8DFFF" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaVerma0407&theme=radical&hide_border=true&background=0D0821&stroke=8A5CF6&ring=8A5CF6&fire=B79CFF&currStreakLabel=E8DFFF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaVerma0407&layout=compact&theme=radical&hide_border=true&bg_color=0D0821&title_color=B79CFF&text_color=E8DFFF" width="45%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyaVerma0407&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaVerma0407&theme=react-dark&bg_color=0D0821&color=B79CFF&line=8A5CF6&point=E8DFFF&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShreyaVerma0407/ShreyaVerma0407/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
