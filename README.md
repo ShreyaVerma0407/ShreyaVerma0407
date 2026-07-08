@@ -50,7 +50,7 @@ whoami:
   focus: "Software Engineering, Applied AI, Product Engineering"
 ```
 
-I'm a third-year Engineering student focused on building scalable software at the intersection of **full-stack development** and **AI/ML**. I build end-to-end applications, from real-time platforms to AI-powered systems, with an emphasis on clean code, thoughtful architecture, and creating products that deliver meaningful impact.
+I'm a fourth-year Engineering student focused on building scalable software at the intersection of **full-stack development** and **AI/ML**. I build end-to-end applications, from real-time platforms to AI-powered systems, with an emphasis on clean code, thoughtful architecture, and creating products that deliver meaningful impact.
 
 I'm passionate about learning, experimenting with emerging technologies, and turning ideas into reliable software solutions.
 
