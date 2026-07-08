@@ -101,32 +101,6 @@ I'm passionate about learning, experimenting with emerging technologies, and tur
 
 ---
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🍽️ Eatlystic — AI-Powered Kitchen & Nutrition Manager</b></summary>
-<br/>
-
-Many people struggle with managing kitchen inventory, tracking groceries, and maintaining a healthy diet. Eatlystic
-solves this by helping users track food items, nutrition, and expiration dates for smarter, healthier kitchen
-management.
-
-| Category | Detail |
-|---|---|
-| **Stack** | React · Node.js · Express · MongoDB |
-| **Scale** | Full-stack, deployed production instance |
-| **Performance** | Optimized inventory & expiry-tracking queries |
-| **Security** | RESTful API with structured request validation |
-| **Impact** | Simplifies grocery tracking & reduces food waste |
-| **Repository** | [ShreyaVerma0407/EatLystic](https://github.com/ShreyaVerma0407/EatLystic) |
-
-🔗 **Live:** [eatlystic-9vk4.onrender.com](https://eatlystic-9vk4.onrender.com/) · **Code:** [GitHub](https://github.com/ShreyaVerma0407/EatLystic)
-
-</details>
-
-
-
----
 
 ## 📬 Connect With Me
 
