@@ -38,11 +38,7 @@
 <br/>
 
 ---
-
 ## <img src="https://media.giphy.com/media/QflXanhi0BJ8I4x2CI/giphy.gif" width="28"> About Me
-
-<img align="right" width="38%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style="opacity:0;"/>
-
 ```yaml
 whoami:
   name: "Shreya Verma"
@@ -114,11 +110,8 @@ I'm passionate about learning, experimenting with emerging technologies, and tur
 </div>
 
 ---
-
 <div align="center">
 
 <i>"Code with purpose. Build with impact. Innovate with intelligence."</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0F5E,50:1E1147,100:0F0524&height=140&section=footer"/>
 
 </div>
