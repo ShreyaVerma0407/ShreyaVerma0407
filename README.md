@@ -38,31 +38,66 @@
 <br/>
 
 ---
-## <img src="https://media.giphy.com/media/QflXanhi0BJ8I4x2CI/giphy.gif" width="28"> About Me
-```yaml
-whoami:
-  name: "Shreya Verma"
-  role: "Full-Stack Developer · AI/ML Engineer"
-  focus: "Software Engineering, Applied AI, Product Engineering"
-```
 
-I'm a fourth-year Engineering student focused on building scalable software at the intersection of **full-stack development** and **AI/ML**. I build end-to-end applications, from real-time platforms to AI-powered systems, with an emphasis on clean code, thoughtful architecture, and creating products that deliver meaningful impact.
+## 💫 About Me
 
-I'm passionate about learning, experimenting with emerging technologies, and turning ideas into reliable software solutions.
+👩🏻‍💻 I am a full-stack developer with a strong interest in building scalable applications and creating seamless frontend experiences
 
-- 🧠 **AI/ML** — NLP pipelines, RAG & multi-agent systems, sentiment analysis
-- 🛠️ **Full-Stack Engineering** — React · Node.js · Express · MongoDB · Socket.IO
-- 🎨 **Product Engineering** — UI/UX design in Figma & Canva, from wireframe to deployment
-- ⚙️ **Systems Thinking** — scalable, server-managed real-time architectures
+🤖 Along with software development, I am exploring Artificial Intelligence and Machine Learning, including areas like NLP, RAG (Retrieval-Augmented Generation),GenAI, Agentic AI, and building intelligent AI-powered applications
 
-**Open To:**
+🎨 I have a good understanding of UI/UX principles and enjoy designing intuitive interfaces using tools like Figma
 
-<div align="center">
+🎓 Currently in my final year of pursuing  Bachelor's degree in Computer Science and Engineering (2023-2027)
 
-| 💼 SWE Internships | 🤖 AI/ML Roles | 🧩 Open Source | 
-|:---:|:---:|:---:|
+🌱 I love exploring new technologies, solving challenging problems, and continuously improving my technical and problem solving skills
 
-</div>
+
+---
+
+## 📚 Research & Publications
+
+### 🔬 Research Paper
+
+<table>
+<tr>
+<td width="100%">
+
+**📄 A Novel Approach for Evaluating Spatial-Temporal Synergy in Hybrid CNN, RNN, and Vision Transformer Architectures**
+
+🏛️ **Published in:** IGI Global &nbsp; | &nbsp; 🔗 [Read Paper](https://www.igi-global.com/article/a-novel-approach-for-evaluating-spatial-temporal-synergy-in-hybrid-cnn-rnn-and-vision-transformer-architectures/411189)
+
+This paper studies how combining CNNs, RNNs, and Vision Transformers together can help models better capture both spatial and temporal patterns in data. It looks at how these three architectures complement each other, evaluates their combined performance, and discusses how this hybrid setup can improve results over using any single architecture on its own.
+
+</td>
+</tr>
+</table>
+
+### ✍️ Articles
+
+<table>
+<tr>
+<td width="100%">
+
+**📝 AI in Identity Verification and Access Control: Enhancing Digital Security in Enterprise Systems**
+
+🌐 **Platform:** Insights2Techinfo &nbsp; | &nbsp; 🔗 [Read Article](https://insights2techinfo.com/ai-in-identity-verification-and-access-control-enhancing-digital-security-in-enterprise-systems/)
+
+Explores how AI is transforming identity verification and access control in enterprise systems, moving beyond traditional passwords toward biometric authentication, behavioral analysis, risk-based authentication, and continuous verification for stronger, adaptive digital security.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**📝 Metaverse and Virtual Reality: What's Next?**
+
+🌐 **Platform:** Insights2Techinfo &nbsp; | &nbsp; 🔗 [Read Article](https://insights2techinfo.com/metaverse-and-virtual-reality-whats-next/)
+
+Examines how the metaverse and VR are evolving, and the growing role of AI-powered cybersecurity in securing these immersive digital spaces — covering real-time threat detection, biometric authentication, and the challenges of defending against AI-driven attacks like deepfakes.
+
+</td>
+</tr>
+</table>
 
 ---
 
