@@ -68,7 +68,7 @@
 
 🏛️ **Published in:** IGI Global &nbsp; | &nbsp; 🔗 [Read Paper](https://www.igi-global.com/article/a-novel-approach-for-evaluating-spatial-temporal-synergy-in-hybrid-cnn-rnn-and-vision-transformer-architectures/411189)
 
-This paper studies how combining CNNs, RNNs, and Vision Transformers together can help models better capture both spatial and temporal patterns in data. It looks at how these three architectures complement each other, evaluates their combined performance, and discusses how this hybrid setup can improve results over using any single architecture on its own.
+This paper focuses on enhancing image classification and pattern recognition using advanced deep learning models. It presents a comparative analysis of different architectures, including CNN, Hybrid CNN-RNN, and Vision Transformer (ViT), using the CIFAR-10 dataset. The study explores how integrating spatial feature extraction from CNNs with temporal learning capabilities of RNNs can improve recognition accuracy. The models are evaluated using performance metrics such as accuracy, precision, recall, and F1-score, with the Hybrid CNN-RNN architecture achieving 92.24% accuracy and demonstrating the effectiveness of combining spatial and temporal feature learning for intelligent image analysis systems.
 
 </td>
 </tr>
